@@ -1,0 +1,2 @@
+- Merhaba, ben Yaso!
+Yazılım dünyasına tutkuyla bağlı bir geliştiriciyim. Teknolojiye olan ilgim, yaratıcı çözümler bulmaya ve kullanıcı deneyimini geliştirmeye odaklanmamı sağlıyor. Her gün yeni şeyler öğrenerek, projelerimi daha ileriye taşımaktan keyif alıyorum. Kendi yolculuğumda karşılaştığım zorluklardan öğrendiklerimi paylaşarak, teknolojiye meraklı insanlara da ilham vermek istiyorum. Eğer yaratıcı projeler, inovatif çözümler ve kaliteli kodlama ile ilgileniyorsanız, doğru yerdesiniz!
